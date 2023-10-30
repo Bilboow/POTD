@@ -1,4 +1,4 @@
 # POTD
-#daily dsa solution 
+#dsa solution 
 #leetcode
 #gfg
